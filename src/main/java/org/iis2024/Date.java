@@ -20,6 +20,10 @@ public class Date {
   private final int month;
   private final int year;
 
+  public void Hola(){
+    System.out.println("Hola mundo");
+  }
+
   /**
    * Retrieves the day component of this date.
    *
